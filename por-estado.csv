@@ -1,0 +1,33 @@
+state,places,courts_known,tennis_places,padel_places,pickleball_places
+Ciudad de México,124,323,121,3,0
+Jalisco,98,176,91,5,2
+Estado de México,81,146,80,0,1
+Quintana Roo,71,120,71,0,1
+Baja California,58,164,55,2,2
+Yucatán,48,89,41,8,0
+Chihuahua,45,109,43,3,0
+Sonora,37,70,31,7,4
+Baja California Sur,36,64,36,0,1
+Veracruz,36,73,36,0,0
+Nuevo León,34,128,33,1,0
+Querétaro,33,80,31,3,0
+Michoacán,32,83,31,1,0
+Guanajuato,30,77,29,2,1
+Puebla,28,71,28,0,0
+Colima,25,57,25,0,0
+Coahuila,24,55,20,6,0
+Hidalgo,23,38,23,0,0
+Sinaloa,22,56,21,1,0
+Chiapas,21,38,21,0,0
+Guerrero,20,43,19,2,0
+Nayarit,17,20,17,0,1
+Morelos,16,28,15,1,0
+San Luis Potosí,16,50,13,3,0
+Aguascalientes,14,29,13,1,0
+Tamaulipas,11,24,11,0,0
+Tlaxcala,11,11,11,0,0
+Oaxaca,10,21,10,0,0
+Durango,9,19,9,1,0
+Tabasco,8,19,8,0,0
+Campeche,7,12,6,1,0
+Zacatecas,7,16,6,0,1
