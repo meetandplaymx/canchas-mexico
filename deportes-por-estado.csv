@@ -1,0 +1,33 @@
+posicion,estado_slug,estado,lugares,lugares_padel,lugares_tenis,lugares_pickleball,porcentaje_padel,porcentaje_tenis,porcentaje_pickleball,deporte_lider
+1,ciudad-de-mexico,Ciudad de México,124,3,121,0,2.4,97.6,0.0,tenis
+2,jalisco,Jalisco,98,5,91,2,5.1,92.9,2.0,tenis
+3,estado-de-mexico,Estado de México,81,0,80,1,0.0,98.8,1.2,tenis
+4,quintana-roo,Quintana Roo,71,0,71,1,0.0,98.6,1.4,tenis
+5,baja-california,Baja California,58,2,55,2,3.4,93.2,3.4,tenis
+6,yucatan,Yucatán,48,8,41,0,16.3,83.7,0.0,tenis
+7,chihuahua,Chihuahua,45,3,43,0,6.5,93.5,0.0,tenis
+8,sonora,Sonora,37,7,31,4,16.7,73.8,9.5,tenis
+9,baja-california-sur,Baja California Sur,36,0,36,1,0.0,97.3,2.7,tenis
+10,veracruz,Veracruz,36,0,36,0,0.0,100.0,0.0,tenis
+11,nuevo-leon,Nuevo León,34,1,33,0,2.9,97.1,0.0,tenis
+12,queretaro,Querétaro,33,3,31,0,8.8,91.2,0.0,tenis
+13,michoacan,Michoacán,32,1,31,0,3.1,96.9,0.0,tenis
+14,guanajuato,Guanajuato,30,2,29,1,6.3,90.6,3.1,tenis
+15,puebla,Puebla,28,0,28,0,0.0,100.0,0.0,tenis
+16,colima,Colima,25,0,25,0,0.0,100.0,0.0,tenis
+17,coahuila,Coahuila,24,6,20,0,23.1,76.9,0.0,tenis
+18,hidalgo,Hidalgo,23,0,23,0,0.0,100.0,0.0,tenis
+19,sinaloa,Sinaloa,22,1,21,0,4.5,95.5,0.0,tenis
+20,chiapas,Chiapas,21,0,21,0,0.0,100.0,0.0,tenis
+21,guerrero,Guerrero,20,2,19,0,9.5,90.5,0.0,tenis
+22,nayarit,Nayarit,17,0,17,1,0.0,94.4,5.6,tenis
+23,morelos,Morelos,16,1,15,0,6.3,93.8,0.0,tenis
+24,san-luis-potosi,San Luis Potosí,16,3,13,0,18.8,81.3,0.0,tenis
+25,aguascalientes,Aguascalientes,14,1,13,0,7.1,92.9,0.0,tenis
+26,tamaulipas,Tamaulipas,11,0,11,0,0.0,100.0,0.0,tenis
+27,tlaxcala,Tlaxcala,11,0,11,0,0.0,100.0,0.0,tenis
+28,oaxaca,Oaxaca,10,0,10,0,0.0,100.0,0.0,tenis
+29,durango,Durango,9,1,9,0,10.0,90.0,0.0,tenis
+30,tabasco,Tabasco,8,0,8,0,0.0,100.0,0.0,tenis
+31,campeche,Campeche,7,1,6,0,14.3,85.7,0.0,tenis
+32,zacatecas,Zacatecas,7,0,6,1,0.0,85.7,14.3,tenis

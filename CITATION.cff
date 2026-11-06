@@ -9,7 +9,7 @@ repository-code: "https://github.com/idimetrix/canchas-mexico"
 url: "https://meetandplay.mx/canchas"
 license: ODbL-1.0
 date-released: "2026-11-05"
-version: "2026.11"
+version: "2026.11.1"
 doi: 10.5281/zenodo.23986488
 abstract: "1,052 places in Mexico with padel, tennis or pickleball courts mapped in OpenStreetMap (snapshot 2026-09-25). Data © OpenStreetMap contributors, ODbL 1.0."
 keywords: [padel, tennis, pickleball, mexico, openstreetmap, open-data]
