@@ -29,6 +29,8 @@ Note: OSM mappers sometimes draw one polygon over several courts, so `courts` is
 - `canchas-mexico.csv` - one row per place (UTF-8, RFC 4180).
 - `canchas-mexico.geojson` - the same places as GeoJSON points (WGS84, `[lon, lat]`).
 - `por-estado.csv` - places, known courts and places per sport, by state.
+- `deportes-por-estado.csv` - padel, tennis and pickleball places per state (all 32 states, ranked), each sport's share and the leading sport. Spanish column names: `posicion`, `estado_slug`, `estado`, `lugares`, `lugares_padel`, `lugares_tenis`, `lugares_pickleball`, `porcentaje_*`, `deporte_lider` (`padel`, `tenis`, `pickleball`, `empate` = tie, `sin_datos` = no places). A place with two sports counts in both; shares are of the sport listings, not of places. Computed only from the rows of `canchas-mexico.csv`, with the same logic as the [racket-sports-by-state study](https://meetandplay.mx/datos/deportes-de-raqueta-por-estado) - but that study also counts researched non-OSM venues, so its published figures can be higher than this file's.
+- `mapa-canchas-mexico.svg` - choropleth map of the 32 states: known courts (this dataset's `courts`, a lower bound) per 100,000 inhabitants, darker = more. Built only from the OSM rows above, so its values differ from the map on meetandplay.mx, which includes non-OSM venues. Spanish labels, light/dark aware, `<title>` per state.
 
 ### Columns
 
@@ -51,6 +53,10 @@ No phone numbers, e-mail addresses or other personal data are included. Venues t
 Todos los lugares mapeados en OpenStreetMap (OSM) con al menos una cancha de tenis, pádel o pickleball en México, según la copia de OSM del **25 de septiembre de 2026**: 1,052 lugares en 32 estados y 255 ciudades (1,005 con tenis, 51 con pádel, 14 con pickleball).
 
 `courts` es un **mínimo**: a veces un solo polígono en OSM cubre varias canchas. El pádel y el pickleball están poco mapeados en OSM, así que esto refleja lo mapeado, no todos los clubes que existen. Las columnas son las de la tabla de arriba; `name` vacío significa que el lugar no tiene nombre en OSM y `courts` vacío que OSM no indica cuántas canchas hay. No se incluyen teléfonos ni datos personales.
+
+## Map credits
+
+State outlines: [Natural Earth](https://www.naturalearthdata.com/) (public domain). Courts: © OpenStreetMap contributors (ODbL 1.0). Population: INEGI, Censo de Población y Vivienda 2020 (used under INEGI's open-use terms). The map and `deportes-por-estado.csv` are derived from the OSM data, so they are shared under ODbL with the attribution below; the map must keep the credit line printed on it.
 
 ## License / Licencia
 
