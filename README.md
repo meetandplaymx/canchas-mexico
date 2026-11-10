@@ -70,7 +70,7 @@ If you adapt the data and publish the result, you must keep it under ODbL (share
 
 ## How to cite / Cómo citar
 
-> MeetAndPlay (2026). *Canchas de pádel, tenis y pickleball en México (datos de OpenStreetMap)* [dataset]. https://github.com/idimetrix/canchas-mexico. Data © OpenStreetMap contributors, ODbL 1.0.
+> MeetAndPlay (2026). *Canchas de pádel, tenis y pickleball en México (datos de OpenStreetMap)* [dataset]. https://github.com/meetandplaymx/canchas-mexico. Data © OpenStreetMap contributors, ODbL 1.0.
 
 A machine-readable [CITATION.cff](CITATION.cff) is included (GitHub shows a "Cite this repository" button).
 
