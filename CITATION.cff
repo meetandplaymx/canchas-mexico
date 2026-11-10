@@ -5,7 +5,7 @@ type: dataset
 authors:
   - name: "MeetAndPlay"
     website: "https://meetandplay.mx"
-repository-code: "https://github.com/idimetrix/canchas-mexico"
+repository-code: "https://github.com/meetandplaymx/canchas-mexico"
 url: "https://meetandplay.mx/canchas"
 license: ODbL-1.0
 date-released: "2026-11-05"
