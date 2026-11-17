@@ -19,7 +19,7 @@ Every place mapped in OpenStreetMap (OSM) with at least one tennis, padel or pic
 | Places with tennis courts | 1,005 |
 | Places with padel courts | 51 |
 | Places with pickleball courts | 14 |
-| Court features counted (those three sports) | 2,309 |
+| Court features counted (those three sports) | 2,307 |
 | Places with a name in OSM | 354 |
 
 Note: OSM mappers sometimes draw one polygon over several courts, so `courts` is a **lower bound**. Padel and pickleball are under-mapped in OSM; this dataset reflects what is mapped, not every club that exists.
