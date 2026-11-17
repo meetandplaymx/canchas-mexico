@@ -5,7 +5,7 @@
 **Open dataset of padel, tennis and pickleball courts in Mexico, from OpenStreetMap.**
 **Dataset abierto de canchas de pádel, tenis y pickleball en México, a partir de OpenStreetMap.**
 
-Compiled by [MeetAndPlay](https://meetandplay.mx) · Browse it on a map: <https://meetandplay.mx/canchas> · Mirrors: [Zenodo (DOI)](https://doi.org/10.5281/zenodo.23986488) · [Kaggle](https://www.kaggle.com/datasets/dmitriiselikhov/padel-tennis-pickleball-courts-in-mexico) · Dataset hub: <https://meetandplay.mx/datos> · Analysis: <https://meetandplay.mx/reporte-padel-mexico>
+Compiled by [MeetAndPlay](https://meetandplay.mx) · Browse it on a map: <https://meetandplay.mx/canchas> · Mirrors: [Zenodo (DOI)](https://doi.org/10.5281/zenodo.23986488) · Dataset hub: <https://meetandplay.mx/datos> · Analysis: <https://meetandplay.mx/reporte-padel-mexico>
 
 ## English
 
