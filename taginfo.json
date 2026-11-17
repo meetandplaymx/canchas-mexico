@@ -1,0 +1,21 @@
+{
+  "data_format": 1,
+  "data_url": "https://raw.githubusercontent.com/meetandplaymx/canchas-mexico/main/taginfo.json",
+  "data_updated": "20261117T000000Z",
+  "project": {
+    "name": "MeetAndPlay canchas dataset",
+    "description": "Open dataset of places in Mexico with padel, tennis or pickleball courts, taken from OpenStreetMap and published as CSV and GeoJSON.",
+    "project_url": "https://github.com/meetandplaymx/canchas-mexico",
+    "doc_url": "https://github.com/meetandplaymx/canchas-mexico#readme",
+    "contact_name": "MeetAndPlay team",
+    "contact_email": "hola@meetandplay.mx"
+  },
+  "tags": [
+    { "key": "sport", "value": "padel", "description": "Selects places with padel courts." },
+    { "key": "sport", "value": "tennis", "description": "Selects places with tennis courts." },
+    { "key": "sport", "value": "pickleball", "description": "Selects places with pickleball courts." },
+    { "key": "leisure", "value": "sports_centre", "description": "Sports centres tagged with one of the three sports are listed as places." },
+    { "key": "club", "value": "sport", "description": "Sport clubs tagged with one of the three sports are listed as places." },
+    { "key": "name", "description": "Used as the name of the place." }
+  ]
+}
